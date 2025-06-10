@@ -1,4 +1,5 @@
 #!/bin/env bash
+# pulled from https://github.com/elapse-d/foo-Wallpaper-Feh-Gif/blob/master/back4.sh
 select1='feh --bg-fill --no-fehbg '
 select2='xwallpaper --zoom '
 select3='xloadimage -onroot -fullscreen '
